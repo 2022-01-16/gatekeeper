@@ -19,8 +19,8 @@ require (
 	github.com/spf13/cobra v1.2.1
 	go.opencensus.io v0.23.0
 	go.uber.org/zap v1.19.1
-	golang.org/x/net v0.0.0-20211203184738-4852103109b8
-	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
+	golang.org/x/net v0.7.0
+	golang.org/x/sync v0.0.0-20220722155255-886fb9371eb4
 	golang.org/x/time v0.0.0-20211116232009-f0f3c7e86c11
 	gopkg.in/yaml.v2 v2.4.0
 	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b
